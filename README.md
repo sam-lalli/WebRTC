@@ -1,2 +1,2 @@
 # WebRTC
-Video Chat app using WebRTC api
+Video Chat app using WebRTC, firebase, and Vanilla Js
