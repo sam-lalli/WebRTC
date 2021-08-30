@@ -1,5 +1,5 @@
 {
-  "name": "webrtc-video",
+  "name": "webrtc-demo",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,9 +7,9 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.5.1"
+    "vite": "^2.0.5"
   },
   "dependencies": {
-    "firebase": "^9.0.1"
+    "firebase": "^8.2.10"
   }
 }
