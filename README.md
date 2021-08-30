@@ -1,3 +1,1 @@
-# Video Chat with WebRTC and Firebase
-
-using vanilla js
+# Video Chat App with WebRTC and Firebase using vanilla js
